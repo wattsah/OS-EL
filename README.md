@@ -1,9 +1,9 @@
-#OS SYSTEM MODULES
+# OS SYSTEM MODULES
 This repository consists of some of the important operating system. They are:
 1. Kernel (performs Arithmetic and String Operations)
 2. File Manager (Performs various file operations such as Create, Display, Modify and Delete)
 3. Memory Manger (Stimulates the memory allocation of processes using first fit best fit and worst fit)
-##Kernel
+## Kernel
 Consists of 6 files. They are:
 - boot.s
 - grub.cfg
@@ -18,7 +18,7 @@ To run this folder, open the terminal in folder and use the following command:
 }
 ```
 (Make sure that   GRUB, QEMU, Xorriso and other required tools are installed in ubuntu).
-##File Manager
+## File Manager
 Use the following Commands for executing File Management.c file:
 ```
 {
@@ -26,7 +26,7 @@ Use the following Commands for executing File Management.c file:
 ./a.out
 }
 ```
-##Memory Manager
+## Memory Manager
 Use the following Commands for executing Memory Management.c file:
 ```
 {
